@@ -1,5 +1,5 @@
 import { Stack } from "expo-router";
-import { EstoqueProvider } from "../context/EstoqueContext";
+import { EstoqueProvider } from "../context/BaratasContext";
 
 export default function Layout() {
   return (
